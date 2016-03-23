@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2012\ExpProjects\ODAC\ODAC\bin\Debug\ODAC.exe
+D:\Documents\Visual Studio 2012\ExpProjects\ODAC\ODAC\bin\Debug\ODAC.pdb
+D:\Documents\Visual Studio 2012\ExpProjects\ODAC\ODAC\obj\Debug\ODAC.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\ExpProjects\ODAC\ODAC\obj\Debug\ODAC.exe
+D:\Documents\Visual Studio 2012\ExpProjects\ODAC\ODAC\obj\Debug\ODAC.pdb
