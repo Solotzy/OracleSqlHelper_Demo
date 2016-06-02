@@ -24,8 +24,8 @@ namespace ODAC
             //调用静态方法执行存储过程
             OracleSqlHelper.GetMaxID("Student", ref sMaxID);
             Console.WriteLine(sMaxID);
-            
-            Console.Read();
+
+            Console.WriteLine();
         }
     }
 }
